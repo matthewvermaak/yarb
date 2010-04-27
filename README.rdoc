@@ -1,0 +1,10 @@
+=YARB
+ERB enabled YAML ... for pirates!
+
+We have all done it, this is just a quick helper.
+
+  YARB::load("--- test: id_<%= 5 + 5 %>")
+
+  YARB::load(File.open("/some/file/name.yarb"))
+
+  YARB::load("another_test: <%= a %>", :binding => some_binding)
