@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.summary     = "ERB enabled YAML"
   s.description = "ERB enabled YAML"
 
-  s.files        = Dir["{lib}/**.*", "[A-Z]*"]
+  s.files        = Dir["{lib}/**/*", "[A-Z]*"]
   s.require_path = "lib"
 
   s.rubyforge_project = s.name
