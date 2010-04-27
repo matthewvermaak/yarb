@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "yarb"
-  s.version     = "0.0.2"
+  s.version     = "0.0.3"
   s.author      = "Matthew Vermaak"
   s.email       = "matthewvermaak@gmail.com"
   s.homepage    = "http://github.com/matthewvermaak/yarb"
